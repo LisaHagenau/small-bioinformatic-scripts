@@ -7,7 +7,7 @@ Creates a fasta file from files containing sequencing data (e.g. .seq files), us
 ## questionsmark.py
 This is apparently the hardest "easy" programming challenge on coderbyte.com. It checks if there are exactly 3 question marks between every pair of numbers that add up to 10. If that is the case, the output is true, otherwise, the output prints false. 
 
-## select_columns.py
+## range-of-values.py
 This was a question asked on the biostars forum: https://www.biostars.org/p/319990/. It finds the range of numbers in the 3rd column for unique entries in the 1st column for the most common value in the 2nd column. 
 
 ## del_duplicate_names.py
